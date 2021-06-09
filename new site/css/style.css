@@ -17,6 +17,7 @@ img {
     height: 100px;
     object-fit: cover;
 }
+
 html,
 body {
   font-family: 'Poppins', sans-serif;
@@ -30,7 +31,7 @@ h1 {
 
 p {
   margin: 20px 0 10px;
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 section {
@@ -151,7 +152,7 @@ section.home {
 
 .navigation .email-icon {
   position: absolute;
-  bottom: 10px;
+  bottom: 20px;
   transform: scale(0.5);
 }
 
