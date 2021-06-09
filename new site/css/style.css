@@ -151,7 +151,7 @@ section.home {
 
 .navigation .email-icon {
   position: absolute;
-  bottom: 40px;
+  bottom: 10px;
   transform: scale(0.5);
 }
 
