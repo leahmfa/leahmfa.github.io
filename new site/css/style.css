@@ -330,12 +330,14 @@ section.home {
   color: #111;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .column {
   float: left;
   width: 33.33%;
   padding: 5px;
-  border-radius: 4px;
-  height: auto;
 }
 
 .row::after {
