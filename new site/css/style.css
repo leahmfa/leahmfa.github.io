@@ -188,7 +188,7 @@ section.home {
      left: 50%;
      margin-left: -300px;
      text-align: center;
-     font-size: 14px !important;
+     font-size: 13px !important;
      background: #D66738;
      background: linear-gradient(to bottom, #D66738, #FFC72B);
      box-shadow: rgba(0,0,0,0.3) 0 1px 1px;
@@ -196,7 +196,7 @@ section.home {
 }
 
 .ribbon p {
-     font-size: 29px !important;
+     font-size: 27px !important;
      color: #801111;
      text-shadow: #D65C5C 0 1px 0;
      margin:0px;
