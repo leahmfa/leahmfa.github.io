@@ -185,7 +185,7 @@ section.home {
 .ribbon {
      width: 600px;
      position: absolute;
-     bottom: 10px;
+     left: 50%;
      margin-left: -300px;
      text-align: center;
      font-size: 13px !important;
