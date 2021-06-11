@@ -21,10 +21,8 @@
   content: "";
   clear: both;
   display: table;
-  
-    float: left;
-    width:  100px;
-    object-fit: cover;
+  width:  100px;
+  object-fit: cover;
 }
 
 .column {
