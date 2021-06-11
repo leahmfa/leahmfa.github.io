@@ -21,6 +21,7 @@
   content: "";
   clear: both;
   display: table;
+  float: inherit;
   width:  100px;
   object-fit: cover;
 }
