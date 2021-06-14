@@ -24,7 +24,7 @@
   display: table;
   float: left;
   width:  100px;
-  height: 200px;
+  height: 100px;
   object-fit: cover;
 }
 
@@ -188,7 +188,7 @@ section.home {
 }
 
 .kronos {
-  display: block;
+  display: absolute;
   margin-left: 10px;
   width: 50%;
 }
