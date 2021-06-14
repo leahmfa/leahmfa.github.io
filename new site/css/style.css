@@ -33,6 +33,13 @@
   padding: 5px;
 }
 
+.demo {
+	background: #C59237;
+	background: -moz-linear-gradient(left, #C59237 0%, #CE3E17 100%);
+	background: -webkit-linear-gradient(left, #C59237 0%, #CE3E17 100%);
+	background: linear-gradient(to right, #C59237 0%, #CE3E17 100%);
+}
+
 html,
 body {
   font-family: 'Poppins', sans-serif;
@@ -61,12 +68,6 @@ section.home {
   margin-top: 0;
 }
 
-.demo {
-	background: #CE4629;
-	background: -moz-linear-gradient(left, #CE4629 0%, #C59237 100%);
-	background: -webkit-linear-gradient(left, #CE4629 0%, #C59237 100%);
-	background: linear-gradient(to right, #CE4629 0%, #C59237 100%);
-}
 
 /* BUTTON */
 .btn {
