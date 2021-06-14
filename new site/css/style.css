@@ -10,12 +10,6 @@
 
 /* BASE STYLES */
 
-.demo {
-	background: #CE4629;
-	background: -moz-linear-gradient(left, #CE4629 0%, #C59237 100%);
-	background: -webkit-linear-gradient(left, #CE4629 0%, #C59237 100%);
-	background: linear-gradient(to right, #CE4629 0%, #C59237 100%);
-}
 
 * {
   box-sizing: border-box;
@@ -65,6 +59,13 @@ section {
 section.home {
   flex-direction: row;
   margin-top: 0;
+}
+
+.demo {
+	background: #CE4629;
+	background: -moz-linear-gradient(left, #CE4629 0%, #C59237 100%);
+	background: -webkit-linear-gradient(left, #CE4629 0%, #C59237 100%);
+	background: linear-gradient(to right, #CE4629 0%, #C59237 100%);
 }
 
 /* BUTTON */
