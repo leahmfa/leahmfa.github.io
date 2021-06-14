@@ -22,8 +22,9 @@
   content: "";
   clear: both;
   display: table;
-  float: inherit;
+  float: left;
   width:  100px;
+  height: 100px;
   object-fit: cover;
 }
 
